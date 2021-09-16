@@ -1,5 +1,8 @@
 # [Here's the link for app | Ссылка на само приложение](https://disney-plus-clone-8b50b.web.app/)
 
+## Here I'm making a kind of Disney+ App with React+Redux & Styled Components, Hooks etc... Hope you enjoy!
+## Здесь я сделал своё подобие приложения Disney+ используя React+Redux, Styled Components Хуки и прочее... Надеюсь вам понравится! ;)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
